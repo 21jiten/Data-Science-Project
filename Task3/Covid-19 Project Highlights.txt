@@ -49,3 +49,4 @@ Part 3:
 Part 4:
 
 1. Conclusion and Recommendations
+Note - beacuse file is to big i have to compress it so open covid-task3.zip file for code
